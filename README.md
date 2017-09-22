@@ -1,5 +1,5 @@
-####Cucumber Travel Search Automation
-
+Cucumber Travel Search Automation
+================================
 Through Cucumber below scenarios has been automated 
 
 Automated tests for the following 4 test scenarios.
